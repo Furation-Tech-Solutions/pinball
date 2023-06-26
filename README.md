@@ -7,13 +7,10 @@
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
 
-A Pinball game built with [Flutter][flutter_link] and [Firebase][firebase_link] for [Google I/O 2022][google_io_link].
+A Pinball game built with [Flutter][flutter_link] and [Firebase][firebase_link]
 
 [Try it now][pinball_link] and [learn about how it's made][blog_link].
 
-_Built by [Very Good Ventures][very_good_ventures_link] in partnership with Google_
-
-_Created using [Very Good CLI][very_good_cli_link] 🤖_
 
 ---
 
@@ -136,7 +133,6 @@ Widget build(BuildContext context) {
 [firebase_link]: https://firebase.google.com/
 [flutter_link]: https://flutter.dev
 [flutter_localizations_link]: https://api.flutter.dev/flutter/flutter_localizations/flutter_localizations-library.html
-[google_io_link]: https://events.google.com/io/
 [blog_link]: https://medium.com/flutter/i-o-pinball-powered-by-flutter-and-firebase-d22423f3f5d
 [internationalization_link]: https://flutter.dev/docs/development/accessibility-and-localization/internationalization
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
